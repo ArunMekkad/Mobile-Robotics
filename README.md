@@ -1,4 +1,4 @@
-** MOBILE ROBOTICS **
+** MOBILE ROBOTICS
 
 This repository contains Jupyter Notebooks (.ipynb files) detailing algorithm development for mapping, navigation, localization, and SLAM as part of the EECE5550 Mobile Robotics course.
 *****************************************************************************************************************************************************************************************************
